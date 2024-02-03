@@ -188,4 +188,3 @@ function optionChanged(value) {
 
 // Call the initialize function
 init();
-
